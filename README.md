@@ -5,4 +5,4 @@
 
 ## Usage
 - Please download the repo as zip and extract it. After launching Jupyter Notebook App on your computer, select "COVID19_Analysis.ipynb" to execute it.
-- You might need to install "plotly" manually, if so please go to Anaconda Prompt and type "conda install -c https://conda.anaconda.org/plotly plotly"
+- You might need to install "plotly" manually, if so please go to Anaconda Prompt and type ```conda install -c https://conda.anaconda.org/plotly plotly```
